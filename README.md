@@ -1,3 +1,9 @@
+## How to use
+1) ```git https://github.com/tomanagle/typescript-starter.git my-app```
+2) ```cd my-app```
+3) ```yarn install```
+4) ```yarn dev```
+
 ## Includes
 - [x] TypeScript
 - [x] Nodemon
