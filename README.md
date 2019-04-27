@@ -1,3 +1,9 @@
+## Includes
+- [x] TypeScript
+- [x] Nodemon
+- [x] Jest
+- [x] ESLint
+  
 ## Scripts
 ### Start the server in development mode
 ```yarn dev```
@@ -13,9 +19,3 @@
 
 ### Build into the dist directory
 ```yarn build```
-
-## Includes
-- [x] TypeScript
-- [x] Nodemon
-- [x] Jest
-- [x] ESLint
